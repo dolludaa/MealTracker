@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "EAT_HEALTHY_FOOD.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
